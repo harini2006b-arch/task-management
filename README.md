@@ -50,7 +50,7 @@ The integrated AI assistant provides smart productivity recommendations, priorit
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/task-management.git
+git clone https://github.com/harini2006b-arch/task-management.git
 ```
 
 ### Navigate To Project Folder
