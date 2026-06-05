@@ -10,17 +10,17 @@ The integrated AI assistant provides smart productivity recommendations, priorit
 
 ## ✨ Features
 
-* ✅ Add, Edit, Delete Tasks
-* 🤖 AI Productivity Suggestions
-* 🔥 AI Priority Detection
-* ⏳ Estimated Completion Time
-* 📅 Suggested Deadlines
-* 📊 Task Analytics Dashboard
-* 📆 Calendar Integration
-* 🔐 Protected Authentication
-* 🎨 Multiple Theme Modes
-* 👤 User Profile Management
-* 📱 Responsive UI Design
+* Add, Edit, Delete Tasks
+* AI Productivity Suggestions
+* AI Priority Detection
+* Estimated Completion Time
+* Suggested Deadlines
+* Task Analytics Dashboard
+* Calendar Integration
+* Protected Authentication
+* Multiple Theme Modes
+* User Profile Management
+* Responsive UI Design
 
 ---
 
