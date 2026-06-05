@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Powered Task Management Dashboard is a modern full-stack web application developed using React.js, Bootstrap, Node.js, Express.js, and OpenRouter AI integration. The application helps users efficiently manage tasks, track productivity, and receive intelligent AI-powered suggestions.
+AI Powered Task Management Dashboard is a modern full-stack web application developed using React.js, Bootstrap, Node.js, and OpenRouter AI integration. The application helps users efficiently manage tasks, track productivity, and receive intelligent AI-powered suggestions.
 
 The integrated AI assistant provides smart productivity recommendations, priority detection, estimated completion time, and suggested deadlines, making the system more advanced than traditional task management applications.
 
