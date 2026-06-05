@@ -1,70 +1,127 @@
-# Getting Started with Create React App
+# AI Powered Task Management Dashboard 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+AI Powered Task Management Dashboard is a modern full-stack web application developed using React.js, Bootstrap, Node.js, Express.js, and OpenRouter AI integration. The application helps users efficiently manage tasks, track productivity, and receive intelligent AI-powered suggestions.
 
-In the project directory, you can run:
+The integrated AI assistant provides smart productivity recommendations, priority detection, estimated completion time, and suggested deadlines, making the system more advanced than traditional task management applications.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* ✅ Add, Edit, Delete Tasks
+* 🤖 AI Productivity Suggestions
+* 🔥 AI Priority Detection
+* ⏳ Estimated Completion Time
+* 📅 Suggested Deadlines
+* 📊 Task Analytics Dashboard
+* 📆 Calendar Integration
+* 🔐 Protected Authentication
+* 🎨 Multiple Theme Modes
+* 👤 User Profile Management
+* 📱 Responsive UI Design
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+### Frontend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* React.js
+* Bootstrap 5
+* Axios
+* React Router DOM
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Node.js
+* Express.js
 
-### `npm run eject`
+### AI Integration
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* OpenRouter API
+* GPT AI Models
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Clone Repository
 
-## Learn More
+```bash
+git clone https://github.com/your-username/task-management.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Navigate To Project Folder
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+cd task-management
+```
 
-### Code Splitting
+### Install Frontend Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm install
+```
 
-### Analyzing the Bundle Size
+### Start Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm start
+```
 
-### Making a Progressive Web App
+Frontend runs on:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```text
+http://localhost:3000
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Setup Backend
 
-### Deployment
+```bash
+cd server
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Create `.env` File
 
-### `npm run build` fails to minify
+```env
+OPENROUTER_API_KEY=YOUR_API_KEY
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Start Backend Server
+
+```bash
+node server.js
+```
+
+Backend runs on:
+
+```text
+http://localhost:5000
+```
+
+---
+
+## AI Features
+
+The AI assistant analyzes tasks and provides:
+
+* Smart productivity suggestions
+* Priority level analysis
+* Estimated completion duration
+* Suggested task deadlines
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+server/
+public/
+```
+
